@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tourism Management System</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="destinations.php">Destinations</a></li>
+				<li><a href="packages.php">Packages</a></li>
+				<li><a href="contact.php">Contact Us</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="banner">
+			<h1>Welcome to the Tourism Management System</h1>
+			<p>Plan your dream vacation with us!</p>
+		</section>
+		<section id="features">
+			<h2>Our Features</h2>
+			<ul>
+				<li>Customizable travel packages to suit your preferences</li>
+				<li>User-friendly interface to make booking easy</li>
+				<li>Expert recommendations on top destinations</li>
+				<li>24/7 customer support for any inquiries</li>
+			</ul>
+		</section>
+		<section id="content">
+			<?php
+				if($_GET['page'])
+				{
+					$page=$_GET['page'];
+					$display=$page.'php';
+					include($display);
+				}
+				else
+				{
+					echo 'Welcome to Book Ur Trip!';
+					echo 'Please select the options from the menu-bar for services.';
+					echo 'Hope you have a Good and Safe Journey!';
+				};
+			?>
+			</section>
+		<section id="about">
+			<h2>About Us</h2>
+			<p>We are a team of experienced travel professionals dedicated to making your vacation dreams a reality. Our platform offers customizable travel packages, expert recommendations on top destinations, and user-friendly booking tools. Let us help you plan your next adventure!</p>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Tourism Management System. All rights reserved.</p>
+	</footer>
+</body>
+</html>

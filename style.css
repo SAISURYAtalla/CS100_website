@@ -1,80 +1,59 @@
-/* Body */
+/* General styles */
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
 
-/* Header */
-header {
+/* Header styles */
+
+.header {
   background-color: #333;
-  color: white;
+  color: #fff;
   padding: 20px;
   text-align: center;
 }
 
-header h1 {
+.header h1 {
   margin: 0;
 }
 
-/* Navigation bar */
-nav {
-  background-color: #ddd;
-  display: flex;
-  justify-content: space-between;
-  padding: 10px;
+/* Navbar styles */
+
+.navbar {
+  background-color: #f2f2f2;
+  overflow: hidden;
 }
 
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-nav ul li {
-  display: inline-block;
-}
-
-nav ul li a {
-  color: black;
+.navbar a {
+  float: left;
   display: block;
-  padding: 10px;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
-nav ul li a:hover {
-  background-color: #ccc;
+.navbar a:hover {
+  background-color: #ddd;
+  color: #333;
 }
 
-/* Main content */
-main {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+/* Main content styles */
+
+.main {
   padding: 20px;
 }
 
-.card {
-  background-color: white;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  margin: 10px;
-  max-width: 300px;
-  padding: 20px;
-  text-align: center;
-}
-
-.card img {
-  max-width: 100%;
-}
-
-.card h2 {
+.main h2 {
   margin-top: 0;
 }
 
-.card p {
-  margin-bottom: 0;
+.main img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
 }
 
 /* Footer */

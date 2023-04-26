@@ -7,23 +7,28 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<header>
-		<nav>
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="destinations.php">Destinations</a></li>
-				<li><a href="packages.php">Packages</a></li>
-				<li><a href="contact.php">Contact Us</a></li>
-			</ul>
-		</nav>
-	</header>
-	<main>
+	<div class="header">
+		<h1>Tourism Management System : BOOK MY TRIP</h1>
+	  </div>
+	
+	<div class="navbar">
+    <a href="index.html">Home</a>
+	<a href="gallery.php">Gallery</a>
+    <a href="destinations.php">Destinations</a>
+	<a href="packages.php">Packages</a>
+    <a href="rentals.php">Rentals</a>
+    <a href="contact.php">Contact Us</a>
+    </div>
+	<div class="main">
 		<section id="banner">
-			<h1>Welcome to the Tourism Management System</h1>
+			<h2>Welcome to Book My Trip!</h2>
 			<p>Plan your dream vacation with us!</p>
+			<p>This website allows you to book trips and rentals for your next vacation!</p>
+			<img src="https://media.istockphoto.com/id/672425798/photo/couple-in-loungers-on-beach-at-maldives.jpg?s=612x612&w=0&k=20&c=EtdtcJ6qsCiEmPB0IUsNfefSArqe7J3MBDGwEqt_WA8=" alt="Beach">
 		</section>
-		<section id="features">
+		
+	    </div>
+	    <section id="features">
 			<h2>Our Features</h2>
 			<ul>
 				<li>Customizable travel packages to suit your preferences</li>
@@ -31,7 +36,7 @@
 				<li>Expert recommendations on top destinations</li>
 				<li>24/7 customer support for any inquiries</li>
 			</ul>
-		</section>
+		</section> 
 		<section id="content">
 			<?php
 				if($_GET['page'])
@@ -54,7 +59,8 @@
 		</section>
 	</main>
 	<footer>
-		<p>&copy; 2023 Tourism Management System. All rights reserved.</p>
+		<p>&copy; 2023 Book My Trip. All rights reserved.</p>
 	</footer>
 </body>
 </html>
+

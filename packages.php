@@ -21,12 +21,6 @@
 	</div>
 	
 	<main>
-		<section id="banner">
-			<h2>Welcome to Book My Trip!</h2>
-			<p>Plan your dream vacation with us!</p>
-			<p>This website allows you to book trips and rentals for your next vacation!</p>
-			<img src="https://media.istockphoto.com/id/672425798/photo/couple-in-loungers-on-beach-at-maldives.jpg?s=612x612&w=0&k=20&c=EtdtcJ6qsCiEmPB0IUsNfefSArqe7J3MBDGwEqt_WA8=" alt="Beach">
-		</section>
 		
 		<section id="packages">
 			<h2>Our Latest Packages</h2>

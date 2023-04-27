@@ -21,7 +21,7 @@
     </div>
 	<div class="main">
 		<h2>Gallery</h2>
-		<p>Here are some photos of our top destinations:</p>
+		<p>Here are some photos of our previous trips :</p>
 		<div class="gallery">
 			<img src="https://media.istockphoto.com/id/672972564/photo/beautiful-beach-with-palm-trees.jpg?b=1&s=170667a&w=0&k=20&c=W7HqrNedgGsQeCgommH3A2PY0DuU3mLyfj4rk6KX0bQ=" alt="Beach">
 			<img src="https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Thailand">
@@ -30,7 +30,7 @@
 			<img src="https://cdn.pixabay.com/photo/2014/07/30/12/38/colored-pencils-405933_960_720.jpg" alt="Colored pencils">
 			<img src="https://cdn.pixabay.com/photo/2014/09/21/18/56/sunset-455361_960_720.jpg" alt="Sunset">
 		</div>
-        <p>Find more deatils at : Destinations</p>
+        <h2><a href="packages.php">Go find your trip ! (Click this)</a></h2>
 	</div>
 	<footer>
 		<p>&copy; 2023 Book My Trip. All rights reserved.</p>

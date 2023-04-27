@@ -42,6 +42,8 @@
 					echo '<li><a href="?destination=paris">Paris, France</a></li>';
 					echo '<li><a href="?destination=tokyo">Tokyo, Japan</a></li>';
 					echo '<li><a href="?destination=sydney">Sydney, Australia</a></li>';
+					echo '<li><a href="?destination=bali">Bali, Thailand</a></li>';
+					echo '<li><a href="?destination=swiss_alps">Swiss Alps, Mountain Adventure</a></li>';
 					echo '</ul>';
 				}
 			?>

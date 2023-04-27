@@ -51,7 +51,7 @@
 					<p>Relax in the beautiful beaches of Bali with our amazing package. It includes flights, hotel stay for 7 nights and 8 days, spa treatments, guided tours and airport transfers. Starting from $2000 per person.</p>
 				</li>
 				<li>
-					<h3><a href="sdyney.php">Sdyney, Australia</a></h3>
+					<h3><a href="sydney.php">Sydney, Australia</a></h3>
 					<img src="https://images.unsplash.com/photo-1586520748101-a5df6afa76f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="Lotus Temple" width=300 height=200>
 					<p>Explore the vibrant city of Sdyney with our amazing package. Click for more details.</p>
 				</li>

@@ -22,8 +22,8 @@
 	<main>
 		
 		<section id="intro">
-			<h2>Welcome to Sdyney</h2>
-			<p>Discover the beauty and charm of Sdyney, a vibrant city full of history, culture, and entertainment. Whether you're looking for a relaxing getaway or an adventure-packed trip, we have something for everyone.</p>
+			<h2>Welcome to Sydney</h2>
+			<p>Discover the beauty and charm of Sydney, a vibrant city full of history, culture, and entertainment. Whether you're looking for a relaxing getaway or an adventure-packed trip, we have something for everyone.</p>
 			<img src="city-image.jpg" alt="Sdyney">
 		</section>
 		

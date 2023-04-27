@@ -23,11 +23,21 @@
     <div class="main">
         <section id="banner">
             <h2>Rentals</h2>
-            <p>Select your vehicle and rental date:</p>
+            <p>Select your Destination,vehicle and rental date:</p>
         </section>
 
         <section id="content">
             <form method="post" action="">
+                <label for="city">Select Destination:</label>
+                <select name="city" id="city">
+                    <option value="hawaai">Hawaai</option>
+                    <option value="bali">Bali</option>
+                    <option value="paris">Paris</option>
+                    <option value="sdyney">Sdyney</option>
+                    <option value="swiss_alps">Swiss Alps</option>
+                    <option value="tokyo">Tokyo</option>
+                </select>
+                <br>
                 <label for="vehicle">Select Vehicle:</label>
                 <select name="vehicle" id="vehicle">
                     <option value="car">Car</option>
@@ -43,10 +53,11 @@
 
             <?php
                 if(isset($_POST['submit'])){
+                    $city=$_POST['city'];
                     $vehicle = $_POST['vehicle'];
                     $date = $_POST['date'];
 
-                    echo "<p>You have selected a $vehicle for $date</p>";
+                    echo "<p>You have selected a $vehicle for $date in $city</p>";
                     echo "<p>Thank you for choosing Book My Trip!</p>";
                 }
             ?>

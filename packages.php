@@ -28,7 +28,7 @@
 				<li>
 					<h3><a href="hawaii.php">Beach Getaway Package</a></h3>
 					<img src="https://imgcld.yatra.com/ytimages/image/upload/t_holidays_responsivedetailslargeimg/v1437553251/Hanauma_Bay.jpg" alt="Beach in Hawaai" width=300 height=200>
-				    <p>Explore the sunny beaches of Hawaii and stay at our luxury beach resort for 5 nights. Package includes airfare, airport transfer, and daily breakfast. Price starting from $2,000 per person. Click for more details.</p>
+				    <p>Explore the sunny beaches of Hawaii and stay at our luxury beach resort for 5 nights. Package includes airfare, airport transfer, and daily breakfast. Price starting from $2,000 per person.</p>
 				</li>
 				<li>
 					<h3><a href="swiss_alps.php">Mountain Adventure Package</a></h3>
@@ -56,6 +56,7 @@
 					<p>Explore the vibrant city of Sdyney with our amazing package. Click for more details.</p>
 				</li>
 			</ul>
+			<h2>CLick on a Package for more details about it.</h2>
 		</section>
 		
 		<section id="about">

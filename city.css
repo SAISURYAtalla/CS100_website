@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: #f2f2f2;
     margin: 0;
   }
@@ -93,4 +93,86 @@ body {
     color: white;
     text-align: center;
     padding: 20px;
-  }
+  } */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#intro {
+  text-align: justify;
+  margin-bottom: 30px;
+}
+
+#intro h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#intro p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+#intro img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+#attractions {
+  text-align: center;
+}
+
+#attractions h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#attractions ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#attractions li {
+  width: 300px;
+  margin: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+
+#attractions h3 {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+#attractions img {
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+#attractions p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+  padding: 0 10px;
+}

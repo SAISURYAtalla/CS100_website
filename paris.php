@@ -1,39 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Tourism Management System - City Page</title>
 	<link rel="stylesheet" type="text/css" href="city.css">
 </head>
 <body>
-	<div class="header">
-		<h1>Tourism Management System : BOOK MY TRIP</h1>
-	</div>
-	
-	<div class="navbar">
-		<a href="index.html">Home</a>
-		<a href="gallery.php">Gallery</a>
-		<a href="destinations.php">Destinations</a>
-		<a href="packages.php">Packages</a>
-		<a href="rentals.php">Rentals</a>
-		<a href="contact.php">Contact Us</a>
-	</div>
 	<main>
 		
 		<section id="intro">
 			<h2>Welcome to Paris</h2>
 			<p>Discover the beauty and charm of Paris, a vibrant city full of history, culture, and entertainment. Whether you're looking for a relaxing getaway or an adventure-packed trip, we have something for everyone.</p>
-			<img src="city-image.jpg" alt="City Name">
+			<img src="https://cdn.pixabay.com/photo/2016/11/23/13/46/paris-1852928__340.jpg" alt="Paris" width=300 height=200>
 		</section>
 		
 		<section id="attractions">
 			<h2>Top Attractions</h2>
 			<ul>
 				<li>
-					<h3>Attraction 1</h3>
-					<img src="attraction1.jpg" alt="Attraction 1">
-					<p>Description of attraction 1.</p>
+					<h3>Eiffel Tower</h3>
+					<img src="https://www.planetware.com/photos-large/F/france-paris-eiffel-tower.jpg" alt="Eiffel Tower" width=300 height=200>
+					<p>The Eiffel Tower (la Tour Eiffel) ranks high on the list of places to visit in France and is the most-visited tourist attraction in the world. It's hard to believe that the structure was dismissed as a monstrosity when it was first unveiled. The iconic tower was designed by Alexandre-Gustave Eiffel for the Paris Exhibition of 1889, which marked the centenary of the French Revolution.<br>The tower consists of 18,000 sturdy iron sections (weighing over 10,000 tons) held together by 2.5 million rivets. This innovative structure is now considered a masterful architectural feat and is the most emblematic sight in Paris. Reaching 324 meters in height, the tower was the world's tallest building until the Empire State Building was erected in New York City.<br>For first-time visitors, seeing the Eiffel Tower is an unforgettable experience. Upon arrival at the esplanade (where the Information Desk is located), the sight of the four massive pillars that support this 10,100-ton monument leaves many awestruck.</p>
 				</li>
 				<li>
 					<h3>Attraction 2</h3>

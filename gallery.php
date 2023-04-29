@@ -39,19 +39,18 @@
 			<img src="https://wallpaperaccess.com/full/373636.jpg" alt="bali" width=300 height=200 title="Thailand">
 			<img src="https://www.planetware.com/wpimages/2022/02/france-paris-top-tourist-attractions-eiffel-tower-view.jpg" alt="Paris" width=300 height=200 title="View from Eifel Tower, Paris">
 			<img src="https://www.pixelstalk.net/wp-content/uploads/images6/Paris-HD-Wallpaper-Free-download.jpg" alt="Paris" width=300 height=200 title="Paris">
-			<img src="" alt="" width=300 height=200 title="">
-			<img src="" alt="" width=300 height=200 title="">
-			<img src="" alt="" width=300 height=200 title="">
-
-
-
-
-
-
-
-
+			<img src="https://www.planetware.com/photos-large/F/france-paris-opera-house.jpg" alt="Paris" width=300 height=200 title="Paris">
+			<img src="https://www.planetware.com/photos-large/F/france-paris-place-de-la-concorde.jpg" alt="Paris" width=300 height=200 title="Paris">
+			<img src="https://www.planetware.com/wpimages/2018/11/france-paris-attractions-seine-river-cruise-at-sunset.jpg" alt="Paris" width=300 height=200 title="Paris">
+			<img src="https://blog.japanwondertravel.com/wp-content/uploads/2016/07/timo-volz-DGsqL2j028E-unsplash.jpg" alt="Tokyo" width=300 height=200 title="Tokyo">
+			<img src="https://blog.japanwondertravel.com/wp-content/uploads/2020/11/Picture5-600x399.jpg" alt="Tokyo" width=300 height=200 title="Tokyo">
+			<img src="https://blog.japanwondertravel.com/wp-content/uploads/2020/03/Odaiba.jpg" alt="Tokyo" width=300 height=200 title="Tokyo">
+			<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/bc/87/c9/fb-img-1449861502246.jpg?w=800&h=-1&s=1" alt="Swiss_alps" width=300 height=200 title="Swiss Alps">
+			<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/61/1b/79/lago-di-lugano.jpg?w=1200&h=-1&s=1" alt="Swiss Alps" width=300 height=200 title="Swiss Alps">
+            <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f9/1c/swiss-alps.jpg?w=700&h=500&s=1" alt="Swiss Alps" title="Swiss Alps" width=300 height=200>
+			<img src="https://img.traveltriangle.com/attachments/pictures/858790/original/Bali-overview-4.jpg?tr=w-583,h-406" alt="Bali" title="Bali" width=300 height=200>
 		</div>
-        <h2><a href="packages.php">Go find your trip ! (Click this)</a></h2>
+        <h2><a href="destinations.php">Go find your trip ! (Click this)</a></h2>
 	</div>
 	<footer>
 		<p>&copy; 2023 Book My Trip. All rights reserved.</p>

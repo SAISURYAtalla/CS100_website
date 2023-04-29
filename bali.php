@@ -37,22 +37,22 @@
 			<h2>Travel Packages</h2>
 			<ul>
 				<li>
-					<h3>Package 1</h3>
-					<img src="package1.jpg" alt="Package 1">
-					<p>Description of package 1. Price: $X.XX</p>
-					<button>Select Package</button>
+					<h3>A boisterous Bali vacation</h3>
+					<img src="https://img.traveltriangle.com/attachments/pictures/854659/original/11.jpg?tr=w-583,h-406" alt="A boisterous Bali vacation" width=300 height=200>
+					<p>It isn't every day that you get to spend quality time with the whole family. As everyone gets older, their lives get busier and it becomes difficult to simply sit down, catch up and really get to know how they're doing. One of the things you could do to fix that is a classic family vacation.<br>With our Bali packages deals for family, the important details of what to do and where to go will be sorted out quite smoothly. Here's a glimpse of what's to come on this journey. The minor details of how you will travel from place to place won't be your headache on this tour, so feel comfortable to let your guard down and enjoy each others' company with our family deal packages to Bali. Price: 30,000/- per person</p>
+					<button><a href="booking.php">Select Package</a></button>
 				</li>
 				<li>
-					<h3>Package 2</h3>
-					<img src="package2.jpg" alt="Package 2">
-					<p>Description of package 2. Price: $X.XX</p>
-					<button>Select Package</button>
+					<h3>Admire The Enchanting Beauty Of Bali</h3>
+					<img src="https://img.traveltriangle.com/attachments/pictures/871802/original/Boats_at_the_beautiful_Beratan_Lake_in_Bali.jpg?tr=w-583,h-406" alt="Admire The Enchanting Beauty Of Bali" width=300 height=200>
+					<p>Set out for a wonderful vacation to Bali with our Bali tour package from Hyderabad. Bali is blessed with beautiful beaches, volcanoes, sand bars, luxurious hotels and rich culture. Every year this beauty attracts millions of tourists from all around the world. Undoubtedly this little island destination stands tall in showcasing its sheer natural beauty. Price: 20,000/-</p>
+					<button><a href="booking.php">Select Package</a></button>
 				</li>
 				<li>
-					<h3>Package 3</h3>
-					<img src="package3.jpg" alt="Package 3">
-					<p>Description of package 3. Price: $X.XX</p>
-					<button>Select Package</button>
+					<h3>Exhilarating Bali Tour</h3>
+					<img src="https://img.traveltriangle.com/attachments/pictures/889796/original/Jimbaran_Beach_Package_1_May_Slider_687x478.jpg?tr=w-583,h-406" alt="Exhilarating Bali Tour" width=300 height=200>
+					<p>DBali is an Indonesian island province, which includes the isle of Bali and a few others. The multi-ethnic province of Bali has seen a gradual spike in the amount of tourists it boasts every year. Renowned for the preservation of its arts and antiques, Bali is the ideal destination for all those hankering after a break from the mundanely troublesome life. With this 6 days in Bali tour, catch a glimpse of the finesse of the artists and pristine artefacts. Dotted with awe-inspiring landscape views, seamless beaches, magnificent hills, ancient architectures, dramatic volcanoes, and much more, this Indonesian island serves a potpourri of experiences that impart its visitors with beautiful memories. Price: 50,000/-</p>
+					<button><a href="booking.php">Select Package</a></button>
 				</li>
 			</ul>
 		</section>

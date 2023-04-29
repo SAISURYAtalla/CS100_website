@@ -56,7 +56,7 @@
 					<p>Explore the vibrant city of Sdyney with our amazing packages. Click for more details.</p>
 				</li>
 			</ul>
-			<h2>CLick on a Package for more details about it.</h2>
+			<h2>CLick on a Package Title for more details about it.</h2>
 		</section>
 		
 		<section id="about">

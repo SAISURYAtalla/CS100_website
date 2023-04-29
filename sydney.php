@@ -41,19 +41,19 @@
 					<h3>Amazing Sydney Sight Seeing Tour Package</h3>
 					<img src="https://img.traveltriangle.com/attachments/pictures/885275/original/shutterstock_339175028.jpg?tr=w-583,h-406" alt="Sight Seeing Package" width=300 height=200>
 					<p>Explore this Sydney sightseeing itinerary and book this Sydney sightseeing package now to avail amazing offers and discounts. Witness Sydney and Gold Coast at their best on this 6 nights 7 days Sydney sightseeing package and alter the itineraries according to your needs and preferences. Price: 53,500/- per person</p>
-					<button>Select Package</button>
+					<button><a href="booking.php">Select Package</a></button>
 				</li>
 				<li>
 					<h3>Captivating Australia Family Holiday Package</h3>
 					<img src="https://img.traveltriangle.com/attachments/pictures/853575/original/4-Blue-penguins-australia.jpg?tr=w-583,h-406" alt="Captivating Australia Family Holiday Package" width=300 height=200>
 					<p>Spend your family holidays by choosing this 8 nights & 9 days Australia family tour package and make some unforgettable memories Down Under. Visits to some of the most sought after tourist attractions in Sydney, Melbourne and Gold Coast and enjoy the host of must-do things in Australia with your family and kids.<br>The tourists choosing this 9-day  Australia family tour package will experience visiting popular tourist attractions of Sydney such as iconic Sydney Harbor Bridge, Katoomba Scenic Railway, a full day Blue Mountains tour and Featherdale Wildlife Park. In Melbourne, go on exploring the Phillip Island Tour and the Great Ocean Road Tour which are also the highlighting features of every Australia family package. This fantastic family tour to Australia wraps with full day excursions to exciting Seaworld and the Dream World famous as some of the best theme parks in the world. Choose and select now this cheap and fully customizable  9 days and  8 nights Australia family tour package and have unlimited fun holidaying with family and kids. For those looking to prolong their family tour package for Australia for 9 days, it would be prudent to cover all the more far flung destinations of this beautiful country as well. It would be great to see some of the natural wonders of Australia, along with your family. Price: 85,000/- per person</p>
-					<button>Select Package</button>
+					<button><a href="booking.php">Select Package</a></button>
 				</li>
 				<li>
 					<h3>Romantic and Best Australian Tour Package</h3>
 					<img src="https://img.traveltriangle.com/attachments/pictures/885274/original/shutterstock_561869782.jpg?tr=w-583,h-406" alt="Romantic and Best Australian Tour Package" width=300 height=200>
 					<p>Offering the best value for money on an international holiday, booking a 14 nights 15 days romantic and best Australian tour package is the best way for the couples to make the most of their Australia itinerary on a romantic escapade. Irrespective of whether the holiday is a private one or one of the best Australia group tours, getting a customized Australia local tour booked as per your own interests has always proven to be an added advantage to the whole holidaying experience. Price: 90,000/- per person</p>
-					<button>Select Package</button>
+					<button><a href="booking.php">Select Package</a></button>
 				</li>
 			</ul>
 		</section>

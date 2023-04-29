@@ -40,13 +40,13 @@
 					<h3>Beach Getaway Package-Hawaii</h3>
 					<img src="https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/tt3fc2uqcndl8vz3xj8rzxz537ua_shutterstock_176453954.jpg" alt="Beach Getaway" width=300 height=200>
 					<p>Hawai'i is widely regarded as one of the best tourist spots in the world. The 50th state is a popular tourist destination because of its pristine beaches, warm water, vibrant reefs, friendly weather, and exciting new things to do and see. Almost 10 million tourists visit our shores each year, all of whom are welcomed by the islands' aloha spirit.<br>Discover cascading waterfalls, active volcanoes, black, green, and white sand beaches, historic sites, and unspoiled nature while on island time. As we take you from a sustainable local farm to a traditional Polynesian performance in Maui, or from a Pearl Harbor memorial to the gleaming Kona Hawaii Temple, you'll discover the islands' vibrant multiculturalism. Hawaii is the perfect place to kick off your shoes and let the aloha wash over you. Price: 90,000/- Per Person</p>
-					<button>Select Package</button>
+					<button><a href="booking.php">Select Package</a></button>
 				</li>
 				<li>
 					<h3>Romantic Getaway-Hawaii</h3>
 					<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/52/94/72/hotel-wailea-pool.jpg?w=700&h=-1&s=1" alt="Romantic Getaway" width=300 height=200>
 					<p>Relax, indulge and explore paradise.<br>Experience a romantic retreat to Hawaii to explore secluded beaches, hidden waterfalls, relaxing spas and delicious dining. From the breathtaking sunsets, exciting adventures, ambiance and amenities; now is the time to plan the perfect romantic getaway. Each island will welcome you with the spirit of Aloha and each package will offer unique member value. Price: 85,000/- per Person</p>
-					<button>Select Package</button>
+					<button><a href="booking.php">Select Package</a></button>
 				</li>
 			</ul>
 		</section>

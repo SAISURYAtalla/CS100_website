@@ -30,7 +30,7 @@
 				<li><a href="https://twitter.com/bookmytrip">Twitter</a></li>
 			</ul>
 			<p>Give any feedback/query if you want:</p>
-			<form method="post" action="submit-feedback.php">
+			<form method="post" action="submit_form.php">
 				<label for="name">Name:</label>
 				<input type="text" id="name" name="name" required>
 

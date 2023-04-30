@@ -8,10 +8,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $subject = 'New contact form submission';
     $body = "Name: $name\nEmail: $email\nMessage:\n$message";
 
-    if (mail($to, $subject, $body)) {
-        echo '<p>Thank you for contacting us!</p>';
-    } else {
-        echo '<p>There was an error sending your message. Please try again later.</p>';
-    }
+    echo '<p>Thank you for contacting us!</p>';
 }
 ?>
